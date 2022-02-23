@@ -1,0 +1,14 @@
+list1=[]
+n=int(input("enter no.of elements:"))
+for i in range(1,n+1):
+    e=int(input("enter number:"))
+    list1.append(e)
+print("minimum element is:",min(list1))    
+
+
+output:enter no.of elements:4
+enter number:12
+enter number:41
+enter number:10
+enter number:7
+minimum element is: 7
