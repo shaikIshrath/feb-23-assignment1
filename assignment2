@@ -1,0 +1,8 @@
+list1=[1,2,3,4,5]
+print('list is',list1)
+list1.reverse()
+print("reversednis:",(list1))
+
+output:
+list is [1, 2, 3, 4, 5]
+reversednis: [5, 4, 3, 2, 1]
